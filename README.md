@@ -20,6 +20,10 @@ Contém a declaração das variáveis, inicialização do buzzer, led, GPS e mem
 
 Contém as coordenadas de GPS e suas velocidades permitidas, a serem gravadas na memória flash acoplada à placa principal.
 
-**Curinga 14h21 24.08.2012/dataflash_at45db161d_v2/dataflash_at45db161d_v2.ino**
+**/Curinga 14h21 24.08.2012/dataflash_at45db161d_v2/dataflash_at45db161d_v2.ino**
 
 Contém o código para utilizar a memória Dataflash da ATMEL, que está acoplada à placa principal.
+
+**/Curinga 14h21 24.08.2012/PontosArduino/PontosArduino.pde**
+
+Programa para abrir o arquivo PontosArduino.txt, separar as linhas, separar pedaços da linha, armazenar pedaços em variáveis, mostrar na tela/terminal, converter para byte, mostrar na tela, enviar via serial à placa para serem gravados na memória Dataflash, acoplada à placa principal.
